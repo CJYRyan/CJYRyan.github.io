@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chen Junyu Ryan"
+  description: "All Things Arts And Architecture"   
+  image: Img/my_image.png
+  favicon: Img/favicon.png
+  navbar:
+    left:
+    - artwork.qmd
+    - architecture.qmd
+    - nm2207.qmd
+    - index.qmd
+    
+ 
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+  
+editor: visual
