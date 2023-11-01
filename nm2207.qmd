@@ -2,6 +2,8 @@
 title: NM2207
 ---
 
-## NM2207 Week 1-9 Files 
+## ![WIDGET PLACEMENT](widget.jpg)
+
+## NM2207 Week 1-9 Files
 
 \[Week 1-9\] <https://github.com/CJYRyan/NM2207>
