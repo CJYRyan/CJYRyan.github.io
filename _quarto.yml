@@ -13,6 +13,7 @@ website:
     - architecture.qmd
     - nm2207.qmd
     - index.qmd
+    - Final_Project.qmd
     
  
 format:
