@@ -13,3 +13,5 @@ title: Architecture
 <img src="Img/architecture_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://www.instagram.com/p/CfebO2hpnAp/?img_index=1&apos;, &apos;blank&apos;);"/>
 
 "Peek-A-Boo" was inspired by Chungking Express a film that captured lovers in a fragmented world. Through sections and exploration of aggregated form the collective building displays public and private interactions between users.
+
+<img src="ERASTOUR.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://twitter.com/TSTheErasTour&apos;, &apos;blank&apos;);"/>
