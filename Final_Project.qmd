@@ -1,8 +1,32 @@
 ---
-title: "FINAL_PROJECT"
+title: "Taylor's Twitter Trend"
 format: html
 ---
 
+[![**Click to catch me live**](ERASTOUR.jpg)](https://twitter.com/TSTheErasTour)
+
+------------------------------------------------------------------------
+
 ```{=html}
-<iframe height="400" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetCount/"></iframe>
+<iframe height="210" width="100%" frameborder="yes" src="https://cjyryan.shinyapps.io/TaylorBanner/"></iframe>
 ```
+
+------------------------------------------------------------------------
+
+# How engaging is Taylor Swift?
+
+------------------------------------------------------------------------
+
+```{=html}
+<iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetCount/"></iframe>
+```
+```{=html}
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<iframe height="800" width="150%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetClick/"></iframe>
+```
+
+------------------------------------------------------------------------
