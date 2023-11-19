@@ -1,7 +1,7 @@
 library(shiny)
 
 ui <- fluidPage(
-  titlePanel("What do u think is her most liked tweet ?  Click to find out more about her engagement?"),
+  titlePanel("Top 3 Tweets, Click to find out more"),
   mainPanel(
     fluidRow(
       column(4,
