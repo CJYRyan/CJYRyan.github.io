@@ -3,30 +3,43 @@ title: "Taylor's Twitter Trend"
 format: html
 ---
 
-[![**Click to catch me live**](ERASTOUR.jpg)](https://twitter.com/TSTheErasTour)
-
-------------------------------------------------------------------------
+```{=html}
+<!DOCTYPE html> 
+<html lang="en"> 
+<head>
+  <meta charset="UTF-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {      
+    margin: 0;      
+    padding: 0;      
+    background: url('reputation.jpg') no-repeat center center fixed; 
+    background-size: cover;    
+    font-family: 'Arial', sans-serif;    
+    color: #43819d; /* Text color */     
+    }  
+  </style> 
+</head> 
+</html>
+```
+[![CLICK TO CATCH ME LIVE \^](ERASTOUR.jpg){width="2000"}](https://twitter.com/TSTheErasTour)
 
 ```{=html}
-<iframe height="210" width="100%" frameborder="yes" src="https://cjyryan.shinyapps.io/TaylorBanner/"></iframe>
+<iframe height="320" width="160%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorBanner/"></iframe>
 ```
-
-------------------------------------------------------------------------
-
 # How engaging is Taylor Swift?
-
-------------------------------------------------------------------------
 
 ```{=html}
 <iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetCount/"></iframe>
 ```
 ```{=html}
+<iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorLike/"></iframe>
 ```
 
 ------------------------------------------------------------------------
 
 ```{=html}
-<iframe height="800" width="150%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetClick/"></iframe>
+<iframe height="800" width="200%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetClick/"></iframe>
 ```
 
 ------------------------------------------------------------------------
